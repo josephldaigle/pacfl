@@ -1,0 +1,273 @@
+2015-08-10 18:26:48
+----- PRINTING RESPONSE
+ssl_email= 
+ssl_last_name= 
+ssl_cvv2_response= M
+ssl_account_balance= 0.00
+ssl_company= 
+ssl_token= 
+ssl_get_token= 
+ssl_token_response= 
+ssl_country= 
+ssl_result_message= DECLINED
+ssl_city= 
+ssl_phone= 
+ssl_invoice_number= 
+ssl_txn_id= 100815B39-7FAD83FE-82F9-42AD-A013-11A538E263C0
+ssl_result= 1
+ssl_completion_date= 
+ssl_avs_response= Y
+ssl_approval_code=       
+ssl_avs_zip= 30228
+ssl_exp_date= 0118
+ssl_departure_date= 
+ssl_avs_address= 131 W James Cir
+ssl_description= 
+ssl_address2= 
+ssl_first_name= 
+ssl_amount= 0.01
+ssl_state= 
+ssl_card_number= 60**********4293
+ssl_txn_time= 08/10/2015 02:26:44 PM
+
+RESPONSE RESULT: 1
+2015-08-10 18:31:42
+----- PRINTING RESPONSE
+ssl_email= 
+ssl_last_name= 
+ssl_cvv2_response= M
+ssl_account_balance= 0.00
+ssl_company= 
+ssl_token= 
+ssl_get_token= 
+ssl_token_response= 
+ssl_country= 
+ssl_result_message= DECLINED
+ssl_city= 
+ssl_phone= 
+ssl_invoice_number= 
+ssl_txn_id= 100815A14-90067AC1-76BD-449F-AEE9-F097A06744EB
+ssl_result= 1
+ssl_completion_date= 
+ssl_avs_response= Y
+ssl_approval_code=       
+ssl_avs_zip= 30228
+ssl_exp_date= 0118
+ssl_departure_date= 
+ssl_avs_address= 131 W James Cir
+ssl_description= 
+ssl_address2= 
+ssl_first_name= 
+ssl_amount= 0.01
+ssl_state= 
+ssl_card_number= 60**********4293
+ssl_txn_time= 08/10/2015 02:31:40 PM
+
+RESPONSE RESULT: 1
+2015-08-10 18:35:26
+----- PRINTING RESPONSE
+ssl_email= 
+ssl_cvv2_response= M
+ssl_last_name= 
+ssl_account_balance= 0.00
+ssl_company= 
+ssl_token= 
+ssl_get_token= 
+ssl_token_response= 
+ssl_country= 
+ssl_result_message= DECLINED
+ssl_city= 
+ssl_phone= 
+ssl_invoice_number= 
+ssl_txn_id= 100815B39-AC2DFA8B-6D94-42A0-BDE2-CE7CD1266C29
+ssl_result= 1
+ssl_completion_date= 
+ssl_customer_code= 
+ssl_avs_response= N
+ssl_approval_code= 
+ssl_avs_zip= 30228
+ssl_exp_date= 0917
+ssl_departure_date= 
+ssl_avs_address= 131 W James Cir
+ssl_salestax= 
+ssl_description= 
+ssl_address2= 
+ssl_first_name= 
+ssl_amount= 0.01
+ssl_state= 
+ssl_card_number= 37**********8328
+ssl_txn_time= 08/10/2015 02:35:24 PM
+
+RESPONSE RESULT: 1
+2015-08-10 18:40:24
+----- PRINTING RESPONSE
+ssl_email= 
+ssl_cvv2_response= M
+ssl_last_name= 
+ssl_account_balance= 0.00
+ssl_company= 
+ssl_token= 
+ssl_get_token= 
+ssl_token_response= 
+ssl_country= 
+ssl_result_message= DECLINED
+ssl_city= 
+ssl_phone= 
+ssl_invoice_number= 
+ssl_txn_id= 100815B38-4A307FE7-4681-42EB-8FB1-FD769F7047C7
+ssl_result= 1
+ssl_completion_date= 
+ssl_customer_code= 
+ssl_avs_response= N
+ssl_approval_code= 
+ssl_avs_zip= 30228
+ssl_exp_date= 0917
+ssl_departure_date= 
+ssl_avs_address= 131 W James Cir
+ssl_salestax= 
+ssl_description= 
+ssl_address2= 
+ssl_first_name= 
+ssl_amount= 0.01
+ssl_state= 
+ssl_card_number= 37**********8328
+ssl_txn_time= 08/10/2015 02:40:22 PM
+
+RESPONSE RESULT: 1
+2015-08-10 18:42:28
+----- PRINTING RESPONSE
+ssl_email= 
+ssl_cvv2_response= M
+ssl_last_name= 
+ssl_account_balance= 0.00
+ssl_company= 
+ssl_token= 
+ssl_get_token= 
+ssl_token_response= 
+ssl_country= 
+ssl_result_message= DECLINED
+ssl_city= 
+ssl_phone= 
+ssl_invoice_number= 
+ssl_txn_id= 100815A15-C67811A2-A710-415F-B012-22704B8F52B0
+ssl_result= 1
+ssl_completion_date= 
+ssl_customer_code= 
+ssl_avs_response= N
+ssl_approval_code= 
+ssl_avs_zip= 30228
+ssl_exp_date= 0917
+ssl_departure_date= 
+ssl_avs_address= 131 W James Cr
+ssl_salestax= 
+ssl_description= 
+ssl_address2= 
+ssl_first_name= 
+ssl_amount= 0.01
+ssl_state= 
+ssl_card_number= 37**********8328
+ssl_txn_time= 08/10/2015 02:42:26 PM
+
+RESPONSE RESULT: 1
+2015-08-11 00:46:41
+----- PRINTING RESPONSE
+ssl_email= 
+ssl_cvv2_response= M
+ssl_last_name= 
+ssl_account_balance= 0.00
+ssl_company= 
+ssl_token= 
+ssl_get_token= 
+ssl_token_response= 
+ssl_country= 
+ssl_result_message= APPROVAL
+ssl_city= 
+ssl_phone= 
+ssl_invoice_number= 
+ssl_txn_id= 100815B38-330003F2-9A02-446C-90C8-B1B65AEB9106
+ssl_result= 0
+ssl_completion_date= 
+ssl_avs_response= Y
+ssl_approval_code= 997183
+ssl_avs_zip= 32643
+ssl_exp_date= 0516
+ssl_departure_date= 
+ssl_avs_address= 235 SW 4 Avenue
+ssl_salestax= 
+ssl_description= 
+ssl_address2= 
+ssl_first_name= 
+ssl_amount= 10.00
+ssl_state= 
+ssl_card_number= 42**********5880
+ssl_txn_time= 08/10/2015 08:46:39 PM
+
+RESPONSE RESULT: 0
+2015-08-11 03:38:07
+----- PRINTING RESPONSE
+ssl_email= 
+ssl_cvv2_response= M
+ssl_last_name= 
+ssl_account_balance= 0.00
+ssl_company= 
+ssl_token= 
+ssl_get_token= 
+ssl_token_response= 
+ssl_country= 
+ssl_result_message= APPROVAL
+ssl_city= 
+ssl_phone= 
+ssl_invoice_number= 
+ssl_txn_id= 100815A14-6C10AE81-4C18-4C97-BE5B-4BAC18D67025
+ssl_result= 0
+ssl_completion_date= 
+ssl_avs_response= Y
+ssl_approval_code= 430456
+ssl_avs_zip= 32571
+ssl_exp_date= 0618
+ssl_departure_date= 
+ssl_avs_address= 3962 Cotton Road
+ssl_salestax= 
+ssl_description= 
+ssl_address2= 
+ssl_first_name= 
+ssl_amount= 100.00
+ssl_state= 
+ssl_card_number= 44**********3689
+ssl_txn_time= 08/10/2015 11:38:05 PM
+
+RESPONSE RESULT: 0
+2015-08-31 19:32:43
+----- PRINTING RESPONSE
+ssl_email= 
+ssl_cvv2_response= M
+ssl_last_name= 
+ssl_account_balance= 0.00
+ssl_company= 
+ssl_token= 
+ssl_get_token= 
+ssl_token_response= 
+ssl_country= 
+ssl_result_message= DECLINED
+ssl_city= 
+ssl_phone= 
+ssl_invoice_number= 
+ssl_txn_id= 310815B38-3A735D70-EE3D-48A9-9265-D47D9AEDEDFD
+ssl_result= 1
+ssl_completion_date= 
+ssl_avs_response= G
+ssl_approval_code= 
+ssl_avs_zip= 99501
+ssl_exp_date= 0616
+ssl_departure_date= 
+ssl_avs_address= calle romero 22
+ssl_salestax= 
+ssl_description= 
+ssl_address2= 
+ssl_first_name= 
+ssl_amount= 3.00
+ssl_state= 
+ssl_card_number= 49**********9135
+ssl_txn_time= 08/31/2015 03:32:39 PM
+
+RESPONSE RESULT: 1

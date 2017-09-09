@@ -1,0 +1,4 @@
+[27-Apr-2016 10:40:26 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/kcrusepac/public_html/wp-content/themes/twentythirteen/404.php on line 10
+[30-Apr-2016 20:44:18 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/kcrusepac/public_html/wp-content/themes/twentythirteen/404.php on line 10
+[29-Jun-2016 20:07:34 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/kcrusepac/public_html/wp-content/themes/twentythirteen/404.php on line 10
+[06-Jun-2017 12:50:10 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/kcrusepac/public_html/wp-content/themes/twentythirteen/404.php on line 10

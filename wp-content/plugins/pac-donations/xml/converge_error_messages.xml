@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<error_codes>
+	<code>
+		<id>AA</id>
+		<value>APPROVAL</value>
+		<def>approved</def>
+		<message>test</message>
+	</code>
+	
+	<code>
+		<id>AP</id>
+		<value>PARTIAL APPROVAL</value>
+		<def>approved</def>
+		<message></message>
+	</code>
+	
+	<code>
+		<id>N7</id>
+		<value>DECLINE CVV2</value>
+		<def>Do not honor due to CCV2 mismatch\failure</def>
+		<message></message>
+	</code>
+	
+	<code>
+		<id>ND</id>
+		<value>AMOUNT ERROR</value>
+		<def>Tran Amount Error</def>
+		<message></message>
+	</code>
+	
+	<code>
+		<id>ND</id>
+		<value>AMT OVER SVC LMT</value>
+		<def>Amount is more than established service limit</def>
+		<message></message>
+	</code>
+	
+	<code>
+		<id>ND</id>
+		<value>APPL TYPE ERROR</value>
+		<def>Call for Assistance</def>
+		<message></message>
+	</code>
+	
+	<code>
+		<id>ND</id>
+		<value>DECLINED</value>
+		<def>Do Not Honor</def>
+		<message></message>
+	</code>
+	
+	<code>
+		<id>ND</id>
+		<value>DECLINED</value>
+		<def>Do Not Honor. Failed negative check, upaid items</def>
+		<message></message>
+	</code>
+
+</error_codes>

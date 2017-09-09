@@ -1,0 +1,14 @@
+----- POST SET. FORM WAS SUBMITTED
+-----FETCHING TXN DATA
+pac_nonce_field= 8d92d60634
+pac-donation-amount= 0.05
+pac-card-type= visa
+pac-card-number= 4744780026696500
+pac-card-expiration= 1118
+pac-ccv= 819
+pac-street-1= 1393 Reeves Rd
+pac-street-2= 
+pac-street-3= 
+pac-city= Roberta
+pac-state= Georgia
+pac-zip= 31078

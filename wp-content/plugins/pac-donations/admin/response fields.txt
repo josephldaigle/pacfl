@@ -1,0 +1,24 @@
+----- PRINTING RESPONSE
+ssl_approval_code=       
+ssl_cvv2_response= M
+ssl_enrollment= 
+ssl_exp_date= 1118
+ssl_account_balance= 0.05
+ssl_get_token= 
+ssl_token= 
+ssl_departure_date= 
+ssl_result_message= DECLINED
+ssl_token_response= 
+ssl_salestax= 
+ssl_invoice_number= 
+ssl_promo_code= 
+ssl_amount= 0.05
+ssl_txn_id= 280715A15-77D72407-B2BA-46A0-9687-DF0FCE412DA3
+ssl_result= 1
+ssl_card_number= 47**********6500
+ssl_completion_date= 
+ssl_issue_points= 
+ssl_txn_time= 07/28/2015 09:25:43 PM
+ssl_customer_code= 
+ssl_avs_response= X
+
